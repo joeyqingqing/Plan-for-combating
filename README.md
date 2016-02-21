@@ -7,3 +7,5 @@
 5. 需要按时提交作业，逼自己一把，deadline 是第一生产力。
 
 课程地址：http://study.163.com/course/courseMain.htm?courseId=1002794001#/courseDetail
+
+准备把每章作业提交在github
